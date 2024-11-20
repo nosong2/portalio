@@ -1,4 +1,4 @@
-![image.png](https://lab.ssafy.com/s11-fintech-finance-sub1/S11P21D102/-/raw/dev/etc/images/mobipay.png?ref_type=heads)
+![image.png](https://github.com/nosong2/portalio/blob/main/exec/gifs/PortAlio.png?raw=true)
 
 ## 👨‍👨‍👦‍👦 Black Spoon Developer 팀 소개
 | 김헌규 | 이진송 | 차상곤 |
@@ -215,6 +215,8 @@ https://github.com/nosong2/portalio/blob/main/exec/gifs/%EB%A1%9C%EA%B7%B8%EC%9D
 
 ## ➡️ **Librosa**
 
+![](https://velog.velcdn.com/images/nosong2/post/0ae8e2bf-d84c-4a85-ac70-13e5097563b9/image.png)
+
 ### **도입 이유**
 - **음성 분석**을 통해 면접자의 **말하기 품질**을 평가.
 - **속도, 무음 구간, 음성의 입체감** 등을 분석하여 면접자의 의사소통 능력을 측정.
@@ -231,6 +233,8 @@ https://github.com/nosong2/portalio/blob/main/exec/gifs/%EB%A1%9C%EA%B7%B8%EC%9D
 
 ## ➡️ **PyTorch**
 
+![](https://velog.velcdn.com/images/nosong2/post/de98421a-1c72-4805-a390-e6459aaf7877/image.webp)
+
 ### **도입 이유**
 - **감정 분석**을 위해 딥러닝 모델을 사용.
 - AI Hub에서 제공하는 한국인 표정 데이터를 활용하여 **ResNet 모델**로 학습, 감정 변화를 실시간으로 추적.
@@ -241,6 +245,9 @@ https://github.com/nosong2/portalio/blob/main/exec/gifs/%EB%A1%9C%EA%B7%B8%EC%9D
 
 
 ## ➡️ **OpenAI API**
+
+![](https://velog.velcdn.com/images/nosong2/post/650d6386-4a02-4090-9573-06f90521c0cc/image.png)
+
 
 ### **도입 이유**
 - 면접 질문 생성 및 분석을 위해 도입.
@@ -253,6 +260,9 @@ https://github.com/nosong2/portalio/blob/main/exec/gifs/%EB%A1%9C%EA%B7%B8%EC%9D
 
 
 ## ➡️ **Google Cloud Speech-to-Text (STT) & Text-to-Speech (TTS)**
+
+![](https://velog.velcdn.com/images/nosong2/post/b3472953-c193-4467-87ca-725b38930737/image.png)
+
 
 ### **도입 이유**
 - **STT**: 면접자의 답변을 실시간으로 텍스트로 변환하여 분석.
